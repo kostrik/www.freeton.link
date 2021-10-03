@@ -16,6 +16,7 @@ Welcome to Freeton Link!
    developer
    validator
    actors
+   articles
    Edit on Github <https://github.com/ocamlpro/www.freeton.link>
 
 
