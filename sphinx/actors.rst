@@ -3,6 +3,7 @@ Actors
 
 The Idea Developers
 ~~~~~~~~~~~~~~~~~~~
+* Nikolay Durov
 * Pavel Durov `Channel <https://t.me/durov>`_ - `Twitter <https://twitter.com/durov>`_ - `What Was TON And Why It Is Over <https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12>`_
 * Vitalik Buterin `Blog <https://medium.com/@VitalikButerin>`_
 
