@@ -3,13 +3,9 @@ Actors
 
 The Idea Developers
 ~~~~~~~~~~~~~~~~~~~
+* Nikolay Durov
 * Pavel Durov `Channel <https://t.me/durov>`_ - `Twitter <https://twitter.com/durov>`_ - `What Was TON And Why It Is Over <https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12>`_
 * Vitalik Buterin `Blog <https://medium.com/@VitalikButerin>`_
-
-Community Active Members
-~~~~~~~~~~~~~~~~~~~~~~~~
-* ɖɦ2 `Blog <https://hackmd.io/KdvOCkZPQ-O3wPq8a5SUOg?view>`_ - `Blog <https://hackmd.io/PuNAVksrRTus-QNbKrzbMQ?view>`_
-* Community Inner Life `Chat <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ - `Channel RU <https://t.me/movetheopennetwork>`_
 
 Developers
 ~~~~~~~~~~
@@ -57,6 +53,11 @@ Sub-Governances
 * Korean Sub-Governance `Channel KOR <https://t.me/tonkoreaorg_channel>`_ - `Chat KOR <https://t.me/tonkoreaorg>`_
 * Mexican Sub-Governance `Chat ES <https://t.me/freeton_mexico>`_
 * Vietnamese Sub-Governance `Chat VN <https://t.me/freetonvn>`_
+
+Community Active Members
+~~~~~~~~~~~~~~~~~~~~~~~~
+* ɖɦ2 `Blog <https://hackmd.io/KdvOCkZPQ-O3wPq8a5SUOg?view>`_ - `Blog <https://hackmd.io/PuNAVksrRTus-QNbKrzbMQ?view>`_
+* Community Inner Life `Chat <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ - `Channel RU <https://t.me/movetheopennetwork>`_
 
 Partners
 ~~~~~~~~
